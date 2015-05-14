@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-2addbcd01b6f4e9b02b653694071f27fab388f63.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-448dd24b3a04ddd4101707359918c96f0253d2bb.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-f013022a60b95536bb59abab0325d8c9728aec05.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-b0041ff31bbdadde8c2399f633ddd3514520424b.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-e0389b01c2fb1c17d1d98ff181a1c8623c480e3b.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-09a51f93868f3df47ed590bc53cc9da5c04b808f.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c4358ad7aa8b33c5e9bffa207b4ac8d5b1fffd7b.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-3faecc8cdc785fe9bfa411cc64a18d6b92c8db6e.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-4365381f4dfc8c1846791d10a3951854e4da9123.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-ef86b4190472a91dc18212ee6e26f57941fe8f1a.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-d356c5d5098448429f4ac1757db51899b4429791.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-71be6702fd9f5287344a4a9834f6a93a587d3264.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-e9f8fe30b3e7604e42c4ed6bb51add343d3a2612.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-20a7182b0d3e362ae3b1c7021f128ecafddcdfe3.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-4ee5031a3e7bedc5a380ce534e6881553e51015e.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-b709db0533954207fb5cd82f707a121d391e0f0e.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-8f75c948153c6fe3b85d9cfeb61074c9ed649453.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-30d53760d1f032db6ea834fb3a0a3563ad6995c1.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-5b255e9df1fa89f0b7d48e17e26dfd66e0ce33e6.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-86ada0f5880eb6a739132e5615233b19171a5c79.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-b68654dac902c8c8a82deed1ef541205c1d225d2.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-35c3b900c4572fb1d35548ee9d634dbfd8dc34fe.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-f57762e035ebecb9118f6eb4eccac041cc39944a.jar" />
+    </item>
+    <item
+        jar="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/build/intermediates/pre-dexed/debug/classes-5bd0684ae523c6b2ddbcabfc5572a17cc88b5157.jar" />
+    </item>
+
+</items>

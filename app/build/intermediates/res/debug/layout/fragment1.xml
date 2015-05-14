@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <!--<Spinner-->
+        <!--android:id="@+id/f1_sp1"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@+id/linearLayout1"-->
+        <!--android:layout_marginTop="155dp"-->
+        <!--android:layout_toLeftOf="@+id/find" />-->
+
+    <AutoCompleteTextView
+        android:id="@+id/AutoComplete"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ListView
+        android:id="@+id/f1_lv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/AutoComplete"
+        android:layout_centerHorizontal="true"
+        android:scrollingCache="true"
+        android:smoothScrollbar="true"
+        android:overScrollFooter="@drawable/abc_ic_menu_moreoverflow_mtrl_alpha"
+        android:overScrollHeader="@drawable/abc_ic_menu_moreoverflow_mtrl_alpha">
+    </ListView>
+
+    <Button
+        android:id="@+id/find"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_above="@+id/f1_lv1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/AutoComplete" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="17dp"
+        android:text="Enter your destination."
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout><!-- From: file:/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/src/main/res/layout/fragment1.xml -->

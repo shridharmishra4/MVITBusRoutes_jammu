@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/BusNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="17dp"
+        android:paddingLeft="10dp"
+        android:text="Input bus number for crew details."
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Spinner
+        android:id="@+id/f3_spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="25dp"
+        android:layout_toLeftOf="@+id/btn4"
+        android:layout_below="@+id/BusNo" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/f3_spinner"
+        android:layout_alignParentRight="true"
+        android:text="Submit" />
+
+    <TextView
+        android:id="@+id/f3_drivername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/f3_spinner"
+        android:layout_below="@+id/f3_spinner"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/f3_drivername_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/f3_drivername"
+        android:layout_below="@+id/f3_drivername"
+        android:paddingLeft="10dp" />
+
+    <TextView
+        android:id="@+id/f3_driverno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/f3_drivername_tag"
+        android:layout_below="@+id/f3_drivername_tag"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/f3_driverno_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/f3_driverno"
+        android:layout_below="@+id/f3_driverno"
+        android:paddingLeft="10dp" />
+
+</RelativeLayout><!-- From: file:/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/src/main/res/layout/fragment3.xml -->

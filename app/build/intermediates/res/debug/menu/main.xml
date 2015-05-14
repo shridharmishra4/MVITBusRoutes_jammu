@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mvit.edu.busroutes.MainActivity" >
+
+    
+
+</menu>
+<!-- From: file:/Users/shridhar/AndroidStudioProjects/MVITBusRoutes_jammu/app/src/main/res/menu/main.xml -->
